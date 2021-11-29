@@ -6,14 +6,13 @@ body{
 .card{
     width: 400px;
     height: 200px;
-    box-sizing: border-box;
-    background-image: url("/images/background.png");
-    background-size: cover;
     font-size: 12px;
     margin: auto;
     margin-top: 10%;
-    padding-top: 5px;
-    padding-left: 20px;
+    padding: 5px 0px 0px 20px;
+    box-sizing: border-box;
+    background-image: url("/images/background.png");
+    background-size: cover;
 }
 
 a{
@@ -22,9 +21,9 @@ a{
 }
 
 ul{ 
+    width: 100px;
     font-size: 1rem;
     list-style-position: inside;
-    width: 100px;
     text-indent: 0px;
     padding-left: 0px;
 }
