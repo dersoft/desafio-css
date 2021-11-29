@@ -9,10 +9,10 @@ body{
     box-sizing: border-box;
     background-image: url("/images/background.png");
     background-size: cover;
-    font-size: 13px;
+    font-size: 12px;
     margin: auto;
     margin-top: 10%;
-    padding-top: 10px;
+    padding-top: 5px;
     padding-left: 20px;
 }
 
@@ -24,7 +24,7 @@ a{
 ul{ 
     font-size: 1rem;
     list-style-position: inside;
-    width: 110px;
+    width: 100px;
     text-indent: 0px;
     padding-left: 0px;
 }
@@ -40,4 +40,3 @@ ul{
 .youtube{
     list-style-image: url("/images/Youtube.png");
 }
-
