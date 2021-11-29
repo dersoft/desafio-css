@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.card{
+    width: 400px;
+    height: 200px;
+    box-sizing: border-box;
+    background-image: url("/images/background.png");
+    background-size: cover;
+    font-size: 13px;
+    margin: auto;
+    margin-top: 10%;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+ul{ 
+    font-size: 1rem;
+    list-style-position: inside;
+    width: 110px;
+    text-indent: 0px;
+    padding-left: 0px;
+}
+
+.insta{
+    list-style-image: url("/images/Insta.png");
+}
+
+.twiter{
+    list-style-image: url("/images/Twitter.png");
+}
+
+.youtube{
+    list-style-image: url("/images/Youtube.png");
+}
+
